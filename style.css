@@ -1,0 +1,124 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*CLASSES FLEX BOX*/
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 180px;
+}
+
+/*CLASSES DE LARGEUR*/
+
+/*GENERIQUE*/
+
+/*HEADER*/
+
+/*HERO*/
+
+.w-100{
+    width: 100%;
+}
+
+/*SECTION1*/
+
+/*SECTION 2*/
+
+/*FOOTER*/
+
+.color {
+    background-color: rgb(219, 219, 219);
+}
+
+
+.carte img{
+    width: 20%;
+}
+
+.w-85{
+    width: 85%;
+}
+
+
+.w-40{
+    width: 40%;
+}
+.w-48{
+    width: 48%;
+}
+
+.w-10{
+    width: 10%;
+}
+
+.w-15{
+    width: 15%;
+}
+.w-23{
+    width: 23%;
+}
+
+
+.flexCenter{
+    align-items: center;
+}
+
+.marginTop{
+    margin-top: 32px;
+}
+
+.spaceBetween{
+    justify-content: space-between;
+}
+
+
+.padding{
+    padding: 5px 15px;
+}
+
+.border{
+    border-radius: 20px;
+}
+
+
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container1{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.btnNoP {
+    font-size: 20px;
+    color: #000000;
+    background-color: #949494dd;
+    border-radius: 18px;
+    padding-left: 48px;
+    padding-bottom: 26px;
+    padding-top: 26px;
+    padding-right: 48px;
+    transform: scale(0.8);
+}
+
+.bgBlack{
+
+    background-color: black;
+    color: white;
+
+}
