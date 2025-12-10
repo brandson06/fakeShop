@@ -76,7 +76,7 @@ function afficherProduit(tableauProduit) {
             
             
         </div>
-    `
+    `  
 
 
     })
